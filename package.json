@@ -1,7 +1,6 @@
 {
   "name": "@fifteen/vue3-popper",
   "version": "1.4.2-fifteen.0",
-  "private": true,
   "author": {
     "name": "Valgeir Björnsson",
     "email": "valgeir@hey.com",
